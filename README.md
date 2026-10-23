@@ -34,5 +34,8 @@ Certifique-se de ter o **Python 3** instalado em sua máquina.
 
 1. Clone o repositório ou baixe os arquivos para a sua pasta local:
    ```bash
-   git clone [https://github.com/BrunoCardeman/Circuito_Euler.git](https://github.com/BrunoCardeman/Circuito_Euler.git)
+   git clone https://github.com/BrunoCardeman/Circuito_Euler.git
    cd Circuito_Euler
+   python3 main.py
+   
+2. Se preferir em vez do python3 main.py. Pode-se executar pelo botao de run do ambiente.  
